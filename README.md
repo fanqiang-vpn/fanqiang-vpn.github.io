@@ -1,6 +1,6 @@
 # 翻墙、科学上网工具＆VPN推荐【含2021优惠】
 
-最近更新：`2021年2月10日`
+最近更新：`2021年2月18日`
 
 >翻墙（Fanqiang, 科学上网）的重要性我想不用多作解释。不会翻墙就回不了Gmail邮件，不能Google 查找最新的特郎普动态，不翻墙能不能看YouTube视频？Udemy买的课程能不能看的舒服？HBO、Netflix能不能追剧？我想大家都知道，不然你也不会来到这里了。我在国内针对中国国际互联网用户的翻墙软件进行测试和评价，并长期关注VPN、SSR、WireGuard、V2Ray、蓝灯等翻墙和信息安全技术，为读者推荐在国内最好用、稳定和安全的科学上网方法和工具。
 
@@ -19,11 +19,11 @@
 >其实就2021年的今天来看，VPN加密翻墙依然是最适合小白的主流安全科学上网工具，同样也是我长期关注和测试的。**如果你不想多磨叽，想快速、直接选择一款VPN就能安全翻墙，我建议选择下列2款**：
 >
 >
-> - <a rel="nofollow noopener" href="https://drwall.top/vpn/lightyear" target="_blank">光年VPN【免费试用连结】</a>：今年六月时候收到许多网友来信提到光年VPN，到现在也使用半年时间。不得不说这绝对是我在2021年**最推荐的翻墙软体之一**，主要在于光年的服务器使用亚马逊AWS 的节点，基本上就是翻墙速度的保证，对服务器有稍微理解的都知道，亚马逊一直以来都是以提供全球稳定服务器为主要业务。在翻墙上连线速度也是我目前用过**最快**的产品，因为其支援**支付宝**又有一天的**免费试用**。对于翻墙新手而言，推荐可以免费试用看看光年再决定是否购买。
+> - <a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/lightyear" target="_blank">光年VPN【免费试用连结】</a>：今年六月时候收到许多网友来信提到光年VPN，到现在也使用半年时间。不得不说这绝对是我在2021年**最推荐的翻墙软体之一**，主要在于光年的服务器使用亚马逊AWS 的节点，基本上就是翻墙速度的保证，对服务器有稍微理解的都知道，亚马逊一直以来都是以提供全球稳定服务器为主要业务。在翻墙上连线速度也是我目前用过**最快**的产品，因为其支援**支付宝**又有一天的**免费试用**。对于翻墙新手而言，推荐可以免费试用看看光年再决定是否购买。
 > 
 
 
-> - <a rel="nofollow noopener" href="https://drwall.top/vpn/express" target="_blank">ExpressVPN【买一年送三个月】</a>：这款在国内速度体验还算是不错，也是我过去首推的VPN产品（现阶段来说还是光年VPN速度更好一些），ExpressVPN 主要的优势在**加密技术**，其官方宣称ExpressVPN 拥有目前世界最高级别的安全加密技术。ExpressVPN是全球最大的VPN厂商之一，虽然2020年之后中国并非其主要经营区域，但依然时常更新中国区可以使用的节点，在服务品质方便，ExpressVPN 依然相当备受肯定。
+> - <a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/express" target="_blank">ExpressVPN【买一年送三个月】</a>：这款在国内速度体验还算是不错，也是我过去首推的VPN产品（现阶段来说还是光年VPN速度更好一些），ExpressVPN 主要的优势在**加密技术**，其官方宣称ExpressVPN 拥有目前世界最高级别的安全加密技术。ExpressVPN是全球最大的VPN厂商之一，虽然2020年之后中国并非其主要经营区域，但依然时常更新中国区可以使用的节点，在服务品质方便，ExpressVPN 依然相当备受肯定。
 
 
 > 如果打算自己用**VPS自己搭建梯子**，首先你要确保能自己应对使用VPS时可能出现的问题，比如无法连接、IP被封，网络技术和经验不深的读者不推荐这种方法；其次，**热门的搬瓦工BandWagonHost、Vultr和DO几个国人扎堆的机房不建议使用**，因为IP被墙的太严重，很可能刚开的VPS的IP就是不能用的。**目前HostWinds是个还不错的替代选择**，目前还没有很多国人扎堆，IP相对较新，便宜流量大，可月付、可支付宝，基础计划每月$4.49，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，优先选择美国西海岸Seattle机房，国内访问网络速度快，HostWinds的VPS用来搭梯子（技术小白不推荐）和建站都不错。可以免费换IP，换IP的方法：进入VPS管理后台，点击Manage IP’s -->点击Fix ISP Block按钮-->点击确认Confirm。
@@ -165,7 +165,7 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 >注意：因为防火长城的不断迭代更新，过去几年很多VPN商家接二连三遭受屏蔽或跑路。下文的几个VPN，都经过我长期的使用和测试，对防火长城封锁的应对最快，能比较快速地进行软件客户端和服务器节点的更新，能满足国内用户长期使用的需求。另外，该文章会不断更新，请收藏本页面以便以后查看。
 
 
-## 1.<a rel="nofollow noopener" href="https://drwall.top/vpn/lightyear" target="_blank"> 光年VPN--最佳翻墙体验</a>
+## 1.<a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/lightyear" target="_blank"> 光年VPN--最佳翻墙体验</a>
 
 [![lightyearVPN](/image/lightyear.png)](#1-光年VPN--最佳翻墙体验)
 
@@ -179,22 +179,22 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 ### 如何打开光年VPN官网？
 
-<a rel="nofollow noopener" href="https://drwall.top/vpn/lightyear" target="_blank">光年VPN官方网站</a> 可以在不用翻墙的情况下访问，基本上给了使用者很大的方便，我个人觉得一家公司对于中国市场的重视程度，可以从有没有提供免翻墙访问网站看得出来。
+<a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/lightyear" target="_blank">光年VPN官方网站</a> 可以在不用翻墙的情况下访问，基本上给了使用者很大的方便，我个人觉得一家公司对于中国市场的重视程度，可以从有没有提供免翻墙访问网站看得出来。
 
 VPN 网站基本上在中国时常被墙，然而许多厂商如ExpressVPN 要求使用者先“翻墙”之后再去浏览其官方网站，这是非常不替用户着想的。想像因为没有剪刀去买了一把剪刀，结果剪刀的包装一定要用剪刀才能开...... 而光年VPN在这部分可以说是中国目前做最好的，2020年几次网站被墙都在12小时内就搞定了中国能访问的镜像站，对于中国市场的用心值得肯定。
 
-1. 前往<a rel="nofollow noopener" href="https://drwall.top/vpn/lightyear" target="_blank">光年VPN官方网站</a> 注册「免付费试用」
+1. 前往<a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/lightyear" target="_blank">光年VPN官方网站</a> 注册「免付费试用」
 
-[![光年VPN 注册](/image/ly_register.png)](https://drwall.top/vpn/lightyear)
+[![光年VPN 注册](/image/ly_register.png)](https://fanqiang-vpn.org/vpn/lightyear)
 
 2. 注册后使用者享有一天试用期，前往下载页面下载软件
 
-[![光年VPN 下载](/image/ly_download.png)](https://drwall.top/vpn/lightyear)
+[![光年VPN 下载](/image/ly_download.png)](https://fanqiang-vpn.org/vpn/lightyear)
 
 
 ### 光年VPN如何使用？
 
-基本上光年VPN 就是让使用者实现“一键翻墙”的软件，透过<a rel="nofollow noopener" href="https://drwall.top/vpn/lightyear" target="_blank">以上连结</a>将光年VPN 下载下来后，可以直接透过安装档进行安装。
+基本上光年VPN 就是让使用者实现“一键翻墙”的软件，透过<a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/lightyear" target="_blank">以上连结</a>将光年VPN 下载下来后，可以直接透过安装档进行安装。
 
 ![光年VPN 安装](/image/ly_install1.png)
 
@@ -212,7 +212,7 @@ VPN 网站基本上在中国时常被墙，然而许多厂商如ExpressVPN 要�
 
 日本节点测速：
 
-[![光年VPN 日本节点测速](image/ly_speed.png)](https://drwall.top/vpn/lightyear)
+[![光年VPN 日本节点测速](image/ly_speed.png)](https://fanqiang-vpn.org/vpn/lightyear)
 
 这是最近我使用光年VPN时的测试结果，上面的速度测试截图可以看到，连接Tokyo的节点，ping值69ms，下载速度为102Mbps，上行速度为95Mbps。这样的速度目前**碾压市场上的其他对手**，甚至可以说速度是ExpressVPN 的两倍以上，如果要购买价格更是只有ExpressVPN的三分之一。
 
@@ -241,24 +241,24 @@ VPN 网站基本上在中国时常被墙，然而许多厂商如ExpressVPN 要�
 
 - **智能模式**
 
-<a rel="nofollow noopener" href="https://drwall.top/vpn/lightyear" target="_blank">光年VPN</a> 提供了智能模式，许多VPN像是ExpressVPN 连上了之后便无法观看爱奇艺、优酷等视频，光年VPN 内建可以自行开关的智能模式，开启后只有需要翻墙的流量才会经过海外服务器，这点对于中国使用者而言是非常便利的。
+<a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/lightyear" target="_blank">光年VPN</a> 提供了智能模式，许多VPN像是ExpressVPN 连上了之后便无法观看爱奇艺、优酷等视频，光年VPN 内建可以自行开关的智能模式，开启后只有需要翻墙的流量才会经过海外服务器，这点对于中国使用者而言是非常便利的。
 
 
 - **7天退款保证**
 
-<a rel="nofollow noopener" href="https://drwall.top/vpn/lightyear" target="_blank">光年VPN</a> 不但提供了一天的免费试用，就算是购买之后不满意，在七天之内依然可以进行退款。
+<a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/lightyear" target="_blank">光年VPN</a> 不但提供了一天的免费试用，就算是购买之后不满意，在七天之内依然可以进行退款。
 
-### <center><a rel="nofollow noopener" href="https://drwall.top/vpn/lightyear" target="_blank">>> 免费体验光年VPN 高速翻墙 <<</a></center>
+### <center><a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/lightyear" target="_blank">>> 免费体验光年VPN 高速翻墙 <<</a></center>
 
 
 ---
 
 
-## 2.<a rel="nofollow noopener" href="https://drwall.top/vpn/express" target="_blank"> ExpressVPN – 最高级别加密</a>
+## 2.<a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/express" target="_blank"> ExpressVPN – 最高级别加密</a>
 
->2020年12月使用，确认可用，速度体验在我测试使用的几款中表现第二好（仅次于<a rel="nofollow noopener" href="https://drwall.top/vpn/lightyear" target="_blank">光年VPN</a>），尤其是LA-5、Marina Bay线路的速度很快，这款VPN在iPhone上的使用体验都不错。
+>2020年12月使用，确认可用，速度体验在我测试使用的几款中表现第二好（仅次于<a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/lightyear" target="_blank">光年VPN</a>），尤其是LA-5、Marina Bay线路的速度很快，这款VPN在iPhone上的使用体验都不错。
 
-[![ExpressVPN](image/ExpressVPN-logo.png)](https://drwall.top/vpn/express)
+[![ExpressVPN](image/ExpressVPN-logo.png)](https://fanqiang-vpn.org/vpn/express)
 
 ExpressVPN 是相当适合在中国大陆使用的翻墙VPN软件，技术能力出色且能快速应对防火长城的封锁，成为了翻墙到国外最好用的VPN产品。但是由于经过实测光年VPN在连接速度表现更好、延迟度更低、价格更便宜，因此ExpressVPN目前排名第二。
 
@@ -296,7 +296,7 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 ### ExpressVPN的缺点
 
-[![express-vpn-servers](/image/express-vpn-servers.png)](https://drwall.top/vpn/express)
+[![express-vpn-servers](/image/express-vpn-servers.png)](https://fanqiang-vpn.org/vpn/express)
 
 - ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且价格较其他VPN品牌贵些，基本上一年套餐比其他VPN的一年套餐贵20%左右，现在有限时优惠**买一年送三个月活动，每月$6.67/月**，支持支付宝支付。
 
@@ -343,17 +343,17 @@ iPhone手机使用移动4G网络连接ExpressVPN的Marina Bay节点，使用Spee
 
 总体上来说ExpressVPN是我测试的所有翻墙软件中，在电脑端（Windows、MacBook）和手机端（iPhone、安卓手机）使用体验相当不错，尤其是网络速度方面。
 
-综合评价：这款VPN是我经常使用的一款，从16年开始使用到现在，其客户端的美观简洁、服务的稳定性、连接速度在我们测试的所有VPN产品中属于一流，可称得上是在国内第二好用的翻墙VPN（仅次于<a rel="nofollow noopener" href="https://drwall.top/vpn/lightyear" target="_blank">光年VPN</a>）。在我们的测试中，ExpressVPN几乎没有对我们的网速造成任何影响，浏览网页、观看YouTube十分流畅。ExpressVPN的服务器遍布全球94个国家，并且对使用流量和带宽没有任何限制。
+综合评价：这款VPN是我经常使用的一款，从16年开始使用到现在，其客户端的美观简洁、服务的稳定性、连接速度在我们测试的所有VPN产品中属于一流，可称得上是在国内第二好用的翻墙VPN（仅次于<a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/lightyear" target="_blank">光年VPN</a>）。在我们的测试中，ExpressVPN几乎没有对我们的网速造成任何影响，浏览网页、观看YouTube十分流畅。ExpressVPN的服务器遍布全球94个国家，并且对使用流量和带宽没有任何限制。
 
 在安全性方面，他们也做得很好，支持256位`OpenVPN(TCP, UDP), L2TP-IPsec, SSTP和PPTP`等加密协议，并且不保留用户日志，用户可以放心上网而不必担心个人隐私泄露。
 
 ExpressVPN的客服是业内最好的之一，随时提供网上帮助。此外，ExpressVPN兼容各种常见设备，并且可以配置在路由器上，在电脑（Windows或Mac）和移动设备（iPhone、安卓、平板）上都可以使用，**最多支持5台设备同时在线使用**。
 
-[![ExpressVPN支持设备](/image/express-vpn-devices.png "ExpressVPN支持设备截图")](https://drwall.top/vpn/express)
+[![ExpressVPN支持设备](/image/express-vpn-devices.png "ExpressVPN支持设备截图")](https://fanqiang-vpn.org/vpn/express)
 
 套餐的价格：性价比最高的是1年套餐，同时他们保证30天内使用不满意无条件退款，所以你有足够的时间来测试。
 
-[![ExpressVPN付款方式](/image/express-vpn-payment.png "ExpressVPN付款方式截图")](https://drwall.top/vpn/express)
+[![ExpressVPN付款方式](/image/express-vpn-payment.png "ExpressVPN付款方式截图")](https://fanqiang-vpn.org/vpn/express)
 
 ExpressVPN支持支付宝、银联等多种方式付款。付款后，在手机安装APP客户端请参考：[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
 
@@ -365,14 +365,14 @@ ExpressVPN支持支付宝、银联等多种方式付款。付款后，在手机�
 >
 >**推荐用户**：对速度和稳定性有要求的用户、iPhone和Mac用户首选
 
-### <center><a rel="nofollow noopener" href="https://drwall.top/vpn/express" target="_blank">>> 获取ExpressVPN优惠 <<</a></center>
+### <center><a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/express" target="_blank">>> 获取ExpressVPN优惠 <<</a></center>
 
 > 由于冒牌网站很多，官方已经不再使用镜像域名（只能更新客户端使用），目前中国大陆的访客可能已经打不开ExpressVPN官网，需要梯子才能进入。
 
 ---
 
 
-## 3.<a rel="nofollow noopener" href="https://drwall.top/vpn/nord" target="_blank"> NordVPN</a>
+## 3.<a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/nord" target="_blank"> NordVPN</a>
 
 [![NordVPN](/image/nord-min.png)](#3-nordvpn)
 
@@ -391,7 +391,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。付款后，在手机�
 
 2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。
 
-3.完成之后清空浏览器缓存、刷新浏览器，或用另一浏览器访问本页面，然后<a rel="nofollow noopener" href="https://drwall.top/vpn/nord" target="_blank"> 点击获取NordVPN官网优惠</a>。
+3.完成之后清空浏览器缓存、刷新浏览器，或用另一浏览器访问本页面，然后<a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/nord" target="_blank"> 点击获取NordVPN官网优惠</a>。
 
 完成之后，就可以正常访问官网和使用客户端了。
 
@@ -427,11 +427,11 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 >注：在敏感时期，使用NordVPN最好能结合官网的教程进行OpenVPN手动配置，iOS设备上用手动ikev2，手动配置的节点比APP直连的稳定性高很多。另一个需要注意的地方是如果遇到连接或者下载问题随时联系在线客服，让售后给你备用服务器地址，进行手动配置，连接成功率和速度我感觉明显要高于APP直连。
 
 
-## 4.<a rel="nofollow noopener" href="https://drwall.top/vpn/panda" target="_blank"> PandaVPN</a>
+## 4.<a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/panda" target="_blank"> PandaVPN</a>
 
 >2020年11月测试，确认可用，体验中规中矩。
 
-[![PandaVPN](/image/panda-min.png)](https://drwall.top/vpn/panda)
+[![PandaVPN](/image/panda-min.png)](https://fanqiang-vpn.org/vpn/panda)
 
 >这款我去年开始使用，虽然创办时间相对另外几个老牌服务商不算长，但是不管是连接成功率还是速度上来说，在我使用的这几个月还算OK。
 
