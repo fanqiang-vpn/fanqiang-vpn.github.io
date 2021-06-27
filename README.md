@@ -3,7 +3,7 @@
 最近更新：`2021年6月28日`
 
 
-> 紧急更新： 最近光年好多网友反应无法连接服务器，大家可以使用ExpressVPN 紧急连接。**<a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/express" target="_blank">ExpressVPN【买一年送三个月】</a>**
+> *紧急更新： 最近光年好多网友反应无法连接服务器，大家可以使用ExpressVPN 紧急连接。* **<a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/express" target="_blank">ExpressVPN【买一年送三个月】</a>**
 
 >最近有网友说P站在国内免翻墙也能访问，好像墙被撤销了。根据我们的经验和后来的研究，是P站新增了服务器而服务器的IP没有被屏蔽所致。大家不要过于激动，还是老老实实翻墙吧。
 
