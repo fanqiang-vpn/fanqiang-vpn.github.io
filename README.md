@@ -1,10 +1,10 @@
 # 翻墙、科学上网工具＆VPN梯子推荐【7月紧急更新含2021优惠】
 
-最近更新：`2021年6月28日`
+最近更新：`2021年7月24日`
 
 
 
-> *紧急更新： 最近光年好多网友反应无法连接服务器，大概率是跑路。
+> *紧急更新： 最近光年好多网友反应无法连接服务器，大概率是跑路。目前我们也在想办法联络光年VPN
 > 
 > 大家可以使用ExpressVPN 紧急连接。* **<a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/express" target="_blank">ExpressVPN【买一年送三个月】</a>** 或者最近开展亚洲业务，于2004年成立的老牌VPN <a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/strong" target="_blank">StrongVPN</a>
 
