@@ -180,7 +180,7 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 ## 2.<a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/express" target="_blank"> ExpressVPN – 最高级别加密</a>
 
->2020年12月使用，确认可用，速度体验在我测试使用的几款中表现第二好（仅次于<a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/lightyear" target="_blank">光年VPN</a>），尤其是LA-5、Marina Bay线路的速度很快，这款VPN在iPhone上的使用体验都不错。
+>2020年12月使用，确认可用，速度体验在我测试使用的几款中表现第二好，尤其是LA-5、Marina Bay线路的速度很快，这款VPN在iPhone上的使用体验都不错。
 
 [![ExpressVPN](image/ExpressVPN-logo.png)](https://fanqiang-vpn.org/vpn/express)
 
@@ -224,7 +224,7 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 - ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且价格较其他VPN品牌贵些，基本上一年套餐比其他VPN的一年套餐贵20%左右，现在有限时优惠**买一年送三个月活动，每月$6.67/月**，支持支付宝支付。
 
->适合注重隐私数据保护和较好的朋友。如果要求性价比與速度，[光年VPN](#1-光年VPN--最佳翻墙体验)应该更适合你，[光年VPN](#1-光年VPN--最佳翻墙体验)建议优先连接日本、新加坡、韩国、香港这些地区新出的服务器节点，速度相对其他节点更快。
+>适合注重隐私数据保护和较好的朋友。建议优先连接日本、新加坡、韩国、香港这些地区新出的服务器节点，速度相对其他节点更快。
 
 在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
 
@@ -267,7 +267,7 @@ iPhone手机使用移动4G网络连接ExpressVPN的Marina Bay节点，使用Spee
 
 总体上来说ExpressVPN是我测试的所有翻墙软件中，在电脑端（Windows、MacBook）和手机端（iPhone、安卓手机）使用体验相当不错，尤其是网络速度方面。
 
-综合评价：这款VPN是我经常使用的一款，从16年开始使用到现在，其客户端的美观简洁、服务的稳定性、连接速度在我们测试的所有VPN产品中属于一流，可称得上是在国内第二好用的翻墙VPN（仅次于<a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/lightyear" target="_blank">光年VPN</a>）。在我们的测试中，ExpressVPN几乎没有对我们的网速造成任何影响，浏览网页、观看YouTube十分流畅。ExpressVPN的服务器遍布全球94个国家，并且对使用流量和带宽没有任何限制。
+综合评价：这款VPN是我经常使用的一款，从16年开始使用到现在，其客户端的美观简洁、服务的稳定性、连接速度在我们测试的所有VPN产品中属于一流，可称得上是在国内第二好用的翻墙VPN。在我们的测试中，ExpressVPN几乎没有对我们的网速造成任何影响，浏览网页、观看YouTube十分流畅。ExpressVPN的服务器遍布全球94个国家，并且对使用流量和带宽没有任何限制。
 
 在安全性方面，他们也做得很好，支持256位`OpenVPN(TCP, UDP), L2TP-IPsec, SSTP和PPTP`等加密协议，并且不保留用户日志，用户可以放心上网而不必担心个人隐私泄露。
 
