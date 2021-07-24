@@ -4,7 +4,9 @@
 
 
 
-> *紧急更新： 最近光年好多网友反应无法连接服务器，大家可以使用ExpressVPN 紧急连接。* **<a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/express" target="_blank">ExpressVPN【买一年送三个月】</a>**
+> *紧急更新： 最近光年好多网友反应无法连接服务器，大概率是跑路。
+> 
+> 大家可以使用ExpressVPN 紧急连接。* **<a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/express" target="_blank">ExpressVPN【买一年送三个月】</a>** 或者最近开展亚洲业务，于2004年成立的老牌VPN <a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/strong" target="_blank">StrongVPN</a>
 
 
 
@@ -27,7 +29,7 @@
 >其实就2021年的今天来看，VPN加密翻墙依然是最适合小白的主流安全科学上网工具，同样也是我长期关注和测试的。**如果你不想听我多磨叽，想快速、直接选择一款VPN就能安全翻墙，我建议选择下列2款**：
 >
 >
-> - <a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/lightyear" target="_blank">光年VPN【免费试用连结】</a>：2020年六月时候收到许多网友来信提到光年VPN，到现在也使用超过1年时间。不得不说这绝对是我在2021年**最推荐的翻墙软体之一**。主要在于光年的服务器使用亚马逊AWS 的节点，基本上就是翻墙速度的保证。对服务器有稍微理解的都知道，亚马逊一直以来都是以提供全球稳定服务器为主要业务。在翻墙上连线速度也是我目前用过**最快**的产品，因为其支援**支付宝**（登陆后可见）又有一天的**免费试用**。对于翻墙新手而言，推荐可以免费试用看看光年再决定是否购买。
+> -<a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/strong" target="_blank">StrongVPN</a>
 > 
 
 
@@ -57,7 +59,6 @@
 >### 5. [什么VPN适合中国用户？](#什么vpn适合中国用户)
 >### 6.[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
 >### 7. [适合在中国使用的翻墙软件VPN，国内实测](#适合在中国使用的翻墙软件vpn国内实测)
->>#### 7.1 [光年VPN - 最佳翻墙体验](#1-光年VPN--最佳翻墙体验)
 >>#### 7.2 [ExpressVPN - 最高级别加密](#2-expressvpn--最高级别加密)
 >>#### 7.3 [NordVPN](#3-nordvpn)
 >>#### 7.4 [PandaVPN](#4-pandavpn)
@@ -173,93 +174,6 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 ## 适合在中国使用的翻墙软件VPN，国内实测
 
 >注意：因为防火长城的不断迭代更新，过去几年很多VPN商家接二连三遭受屏蔽或跑路。下文的几个VPN，都经过我长期的使用和测试，对防火长城封锁的应对最快，能比较快速地进行软件客户端和服务器节点的更新，能满足国内用户长期使用的需求。另外，该文章会不断更新，请收藏本页面以便以后查看。
-
-
-## 1.<a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/lightyear" target="_blank"> 光年VPN--最佳翻墙体验</a>
-
-[![lightyearVPN](/image/lightyear.png)](#1-光年VPN--最佳翻墙体验)
-
->2020年12月10日使用，确认可用，可用节点较多，推荐新加坡、日本、韩国、香港节点。翻墙能力最好的软件，性价比非常高且有提供**免费试用**。
-
-光年VPN是2019年崛起的一家翻墙软件公司，总部位于美国矽谷。没有受到太多博客的推荐，主要原因还是在于“给博客的奖金少”。其实我首推光年也是因为，他们**主要把营收花费在提升服务器品质**，虽然没什么奖金，可是提供有用的资讯给网友才是我写这个博客的主要目的。
-
-2020年几次大封锁期间，ExpressVPN都已经无法使用，唯独光年VPN不但没有受到打击，还能维持100Mbps 以上的速度，基本上也不需要在这边介绍太多优点，毕竟能提供免付费试用的厂商，目前也只有光年VPN能做到，试用满意再付费购买。
-
-
-
-### 如何打开光年VPN官网？
-
-<a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/lightyear" target="_blank">光年VPN官方网站</a> 可以在不用翻墙的情况下访问，基本上给了使用者很大的方便，我个人觉得一家公司对于中国市场的重视程度，可以从有没有提供免翻墙访问网站看得出来。
-
-VPN 网站基本上在中国时常被墙，然而许多厂商如ExpressVPN 要求使用者先“翻墙”之后再去浏览其官方网站，这是非常不替用户着想的。想像因为没有剪刀去买了一把剪刀，结果剪刀的包装一定要用剪刀才能开...... 而光年VPN在这部分可以说是中国目前做最好的，2020年几次网站被墙都在12小时内就搞定了中国能访问的镜像站，对于中国市场的用心值得肯定。
-
-1. 前往<a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/lightyear" target="_blank">光年VPN官方网站</a> 注册「免付费试用」
-
-[![光年VPN 注册](/image/ly_register.png)](https://fanqiang-vpn.org/vpn/lightyear)
-
-2. 注册后使用者享有一天试用期，前往下载页面下载软件
-
-[![光年VPN 下载](/image/ly_download.png)](https://fanqiang-vpn.org/vpn/lightyear)
-
-
-### 光年VPN如何使用？
-
-基本上光年VPN 就是让使用者实现“一键翻墙”的软件，透过<a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/lightyear" target="_blank">以上连结</a>将光年VPN 下载下来后，可以直接透过安装档进行安装。
-
-![光年VPN 安装](/image/ly_install1.png)
-
-安装完成后，登入刚刚注册的信箱及密码，就可以开始使用。
-
-![光年VPN 使用](/image/ly_install2.png)
-
-
-### 使用建议
-
->目前光年VPN 主要采用SSR协议，提供中国网友进行翻墙为主要目的。在连接方面BGP节点是专门为了中国区所设定，节点选择上可以选择日本、新加坡、韩国、香港等地。
-
-
-### 光年VPN速度测试
-
-日本节点测速：
-
-[![光年VPN 日本节点测速](image/ly_speed.png)](https://fanqiang-vpn.org/vpn/lightyear)
-
-这是最近我使用光年VPN时的测试结果，上面的速度测试截图可以看到，连接Tokyo的节点，ping值69ms，下载速度为102Mbps，上行速度为95Mbps。这样的速度目前**碾压市场上的其他对手**，甚至可以说速度是ExpressVPN 的两倍以上，如果要购买价格更是只有ExpressVPN的三分之一。
-
-我建议优先连接下面这些节点：
-
-- 日本
-- 韩国
-- 新加坡
-- 香港
-- 美国地区节点
-
-
-### 光年VPN 特别优势
-
-- **免费试用**
-
-许多翻墙产品都不愿意提供免费试用，需要先付款不满意再退款，然而如果是刷卡免不了有手续费的问题，光年VPN提供目前**业界唯一“免付费试用”的体验**，使用者完全不用成本就可以免费体验高速翻墙的乐趣。
-
-- **支持设备**
-
-同样支持Windows，Mac，iOS，Android这些常见客户端，**最多支持5台设备同时在线使用**。
-
-- **注重中国市场**
-
-就像是我前面提到的，一个厂商重不重视中国市场，有没有免翻墙访问、支不支援支付宝都是重要的依据，光年VPN不但有中文介面、即时客服也支援中文、更是长期提供免翻墙访问页面以及支付宝付款的选项。
-
-- **智能模式**
-
-<a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/lightyear" target="_blank">光年VPN</a> 提供了智能模式，许多VPN像是ExpressVPN 连上了之后便无法观看爱奇艺、优酷等视频，光年VPN 内建可以自行开关的智能模式，开启后只有需要翻墙的流量才会经过海外服务器，这点对于中国使用者而言是非常便利的。
-
-
-- **7天退款保证**
-
-<a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/lightyear" target="_blank">光年VPN</a> 不但提供了一天的免费试用，就算是购买之后不满意，在七天之内依然可以进行退款。
-
-### <center><a rel="nofollow noopener" href="https://fanqiang-vpn.org/vpn/lightyear" target="_blank">>> 免费体验光年VPN 高速翻墙 <<</a></center>
-
 
 ---
 
